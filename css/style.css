@@ -177,3 +177,9 @@ footer{
 .bx-wrapper, .bx-viewport{
     height: 350px !important;
 }
+
+.subir{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
